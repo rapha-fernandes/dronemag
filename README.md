@@ -1,2 +1,0 @@
-# dronemag
-dronemag Landing page
